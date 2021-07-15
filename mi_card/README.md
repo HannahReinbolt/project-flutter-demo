@@ -1,4 +1,4 @@
-# i_am_rich
+# mi_card
 
 A Flutter app based on a business card. Layout is supposed to be like a professional business card for interested persons.
 This app features custom Google fonts, column and card data structures, icon and color palette usage. 
